@@ -1,0 +1,14 @@
+﻿$ pkg upgrade && pkg update 
+$ pkg install python2
+$ Pkg install git 
+$ git clone https://github.com/HackV-2/TopUp 
+$ cd TopUp 
+$ pip2 install -r requirements.txt
+$ python2 TopUp.py
+
+ 
+MR.X GK MAU PULANG maunya di goyang. 
+           Warning ⚠ 
+Bagi yg sudah dwonload ni sc
+Tolong jangan masukan email dan pw kalian. Trimakasih 
+Jika sekedar mencoba silakan 
